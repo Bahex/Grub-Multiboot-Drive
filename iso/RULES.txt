@@ -1,0 +1,3 @@
+DO NOT CHANGE ISO FILES' NAMES
+Every distro can have up to TWO iso files, one for 64-bit and one for 32-bit. Some only needs one.
+Each distro can only have iso files for ONE release. You can't have both 'Ubuntu 15.04' and 'Ubuntu 16.04'.
