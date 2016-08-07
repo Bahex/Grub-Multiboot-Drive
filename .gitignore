@@ -1,4 +1,6 @@
 grub/*
+pups/
+iso/*
+
 !grub/grub*
 !iso/RULES.txt
-pups/
