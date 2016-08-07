@@ -1,6 +1,6 @@
-./*
-!./.gitignore
-!./grub/grub.cfg
-!./grub/grubenv
-!./grub/isomenu.d/*
-!./iso/RULES.txt
+/*
+!/.gitignore
+!/grub/grub.cfg
+!/grub/grubenv
+!/grub/isomenu.d/*
+!/iso/RULES.txt
