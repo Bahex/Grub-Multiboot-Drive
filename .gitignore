@@ -1,6 +1,4 @@
-/*
-!/.gitignore
-!/grub/grub.cfg
-!/grub/grubenv
-!/grub/isomenu.d/*
-!/iso/RULES.txt
+grub/*
+!grub/grub*
+!iso/RULES.txt
+pups/
